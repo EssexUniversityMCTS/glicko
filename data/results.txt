@@ -1,0 +1,360 @@
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/akkaarrh.txt, 0.0, 0.0 | 9.1, 3.3 , timsteps:737.7
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/akkaarrh.txt, 0.2, 0.2 | 13.3, 5.7 , timsteps:897.9
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.doNothing.Agent
+Results in game examples/2player/akkaarrh.txt, 0.0, 0.0 | 12.0, 5.4 , timsteps:832.9
+controllers.multiPlayer.doNothing.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/akkaarrh.txt, 0.0, 0.0 | 1.5, 3.3 , timsteps:614.6
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.sampleRandom.Agent
+Results in game examples/2player/akkaarrh.txt, 0.0, 0.0 | 7.9, -0.7 , timsteps:516.8
+controllers.multiPlayer.sampleRandom.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/akkaarrh.txt, 0.0, 0.0 | 4.6, 2.2 , timsteps:439.6
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.sampleOneStepLookAhead.Agent
+Results in game examples/2player/akkaarrh.txt, 0.0, 0.0 | 19.0, 0.6 , timsteps:998.3
+controllers.multiPlayer.sampleOneStepLookAhead.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/akkaarrh.txt, 0.0, 0.0 | 2.5, 5.1 , timsteps:509.1
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.sampleGA.Agent
+Results in game examples/2player/akkaarrh.txt, 0.0, 0.0 | 11.9, 3.3 , timsteps:803.9
+controllers.multiPlayer.sampleGA.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/akkaarrh.txt, 0.0, 0.0 | 18.9, 2.3 , timsteps:1093.6
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.doNothing.Agent
+Results in game examples/2player/akkaarrh.txt, 0.0, 0.0 | 12.5, 7.9 , timsteps:1070.8
+controllers.multiPlayer.doNothing.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/akkaarrh.txt, 0.0, 0.0 | 1.3, 4.3 , timsteps:528.2
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.sampleRandom.Agent
+Results in game examples/2player/akkaarrh.txt, 0.0, 0.0 | 10.9, 0.1 , timsteps:553.1
+controllers.multiPlayer.sampleRandom.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/akkaarrh.txt, 0.0, 0.0 | 1.2, 0.8 , timsteps:422.0
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.sampleOneStepLookAhead.Agent
+Results in game examples/2player/akkaarrh.txt, 0.0, 0.0 | 21.9, -0.7 , timsteps:921.1
+controllers.multiPlayer.sampleOneStepLookAhead.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/akkaarrh.txt, 0.0, 0.0 | 9.6, 6.8 , timsteps:924.7
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.sampleGA.Agent
+Results in game examples/2player/akkaarrh.txt, 0.0, 0.0 | 8.9, 4.7 , timsteps:705.1
+controllers.multiPlayer.sampleGA.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/akkaarrh.txt, 0.0, 0.0 | 7.4, 2.6 , timsteps:604.9
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/asteroids.txt, 0.4, 0.6 | 425.7, 231.6 , timsteps:526.1
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/asteroids.txt, 0.4, 0.6 | 441.4, 244.0 , timsteps:668.7
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.doNothing.Agent
+Results in game examples/2player/asteroids.txt, 1.0, 0.0 | 1023.4, -1.9 , timsteps:499.9
+controllers.multiPlayer.doNothing.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/asteroids.txt, 0.1, 0.9 | 98.9, 621.6 , timsteps:404.5
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.sampleRandom.Agent
+Results in game examples/2player/asteroids.txt, 0.9, 0.1 | 905.6, 104.6 , timsteps:119.5
+controllers.multiPlayer.sampleRandom.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/asteroids.txt, 0.1, 0.9 | 103.3, 1005.1 , timsteps:103.1
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.sampleOneStepLookAhead.Agent
+Results in game examples/2player/asteroids.txt, 0.9, 0.1 | 1014.8, 15.9 , timsteps:212.7
+controllers.multiPlayer.sampleOneStepLookAhead.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/asteroids.txt, 0.0, 1.0 | 16.1, 511.5 , timsteps:194.3
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.sampleGA.Agent
+Results in game examples/2player/asteroids.txt, 1.0, 0.0 | 1403.4, 1.9 , timsteps:64.0
+controllers.multiPlayer.sampleGA.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/asteroids.txt, 0.3, 0.7 | 416.1, 503.6 , timsteps:115.1
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.doNothing.Agent
+Results in game examples/2player/asteroids.txt, 1.0, 0.0 | 1007.3, -1.9 , timsteps:155.5
+controllers.multiPlayer.doNothing.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/asteroids.txt, 0.0, 1.0 | -1.5, 809.4 , timsteps:238.3
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.sampleRandom.Agent
+Results in game examples/2player/asteroids.txt, 1.0, 0.0 | 1106.7, 3.2 , timsteps:122.5
+controllers.multiPlayer.sampleRandom.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/asteroids.txt, 0.0, 1.0 | 2.2, 1303.7 , timsteps:107.6
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.sampleOneStepLookAhead.Agent
+Results in game examples/2player/asteroids.txt, 0.9, 0.1 | 912.3, 12.5 , timsteps:238.9
+controllers.multiPlayer.sampleOneStepLookAhead.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/asteroids.txt, 0.1, 0.9 | 115.6, 815.7 , timsteps:233.4
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.sampleGA.Agent
+Results in game examples/2player/asteroids.txt, 1.0, 0.0 | 1407.3, 6.6 , timsteps:130.3
+controllers.multiPlayer.sampleGA.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/asteroids.txt, 0.0, 1.0 | 6.7, 1405.0 , timsteps:93.5
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/captureflag.txt, 0.7, 0.2 | 5.3, 0.7 , timsteps:1500.0
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/captureflag.txt, 0.8, 0.3 | 8.7, 1.5 , timsteps:1500.0
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.doNothing.Agent
+Results in game examples/2player/captureflag.txt, 0.4, 0.5 | 2.3, 1.6 , timsteps:1500.0
+controllers.multiPlayer.doNothing.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/captureflag.txt, 0.5, 0.4 | 1.2, 0.9 , timsteps:1500.0
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.sampleRandom.Agent
+Results in game examples/2player/captureflag.txt, 0.9, 0.1 | 8.0, -1.1 , timsteps:1500.0
+controllers.multiPlayer.sampleRandom.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/captureflag.txt, 0.2, 0.6 | 1.5, 3.0 , timsteps:1500.0
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.sampleOneStepLookAhead.Agent
+Results in game examples/2player/captureflag.txt, 0.7, 0.2 | 4.0, 0.2 , timsteps:1500.0
+controllers.multiPlayer.sampleOneStepLookAhead.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/captureflag.txt, 0.6, 0.4 | 2.6, 0.1 , timsteps:1500.0
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.sampleGA.Agent
+Results in game examples/2player/captureflag.txt, 0.9, 0.1 | 9.0, -1.8 , timsteps:1500.0
+controllers.multiPlayer.sampleGA.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/captureflag.txt, 0.5, 0.4 | 1.1, 1.0 , timsteps:1500.0
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.doNothing.Agent
+Results in game examples/2player/captureflag.txt, 0.6, 0.1 | 2.9, 1.0 , timsteps:1500.0
+controllers.multiPlayer.doNothing.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/captureflag.txt, 0.5, 0.1 | 0.8, -0.5 , timsteps:1500.0
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.sampleRandom.Agent
+Results in game examples/2player/captureflag.txt, 0.8, 0.2 | 10.0, -1.3 , timsteps:1500.0
+controllers.multiPlayer.sampleRandom.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/captureflag.txt, 0.5, 0.5 | 1.5, 3.9 , timsteps:1500.0
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.sampleOneStepLookAhead.Agent
+Results in game examples/2player/captureflag.txt, 0.9, 0.1 | 7.3, -1.6 , timsteps:1500.0
+controllers.multiPlayer.sampleOneStepLookAhead.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/captureflag.txt, 0.7, 0.3 | 3.1, 0.8 , timsteps:1500.0
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.sampleGA.Agent
+Results in game examples/2player/captureflag.txt, 0.7, 0.2 | 7.7, -1.7 , timsteps:1500.0
+controllers.multiPlayer.sampleGA.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/captureflag.txt, 0.3, 0.7 | 1.6, 2.6 , timsteps:1500.0
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/copsNrobbers.txt, 0.3, 0.3 | 2.7, 1.2 , timsteps:1272.0
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/copsNrobbers.txt, 0.3, 0.1 | 3.0, 0.4 , timsteps:1702.7
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.doNothing.Agent
+Results in game examples/2player/copsNrobbers.txt, 0.0, 0.0 | 2.2, 0.0 , timsteps:2000.0
+controllers.multiPlayer.doNothing.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/copsNrobbers.txt, 0.0, 0.5 | 0.0, 2.0 , timsteps:1152.2
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.sampleRandom.Agent
+Results in game examples/2player/copsNrobbers.txt, 0.3, 0.0 | 3.0, 0.0 , timsteps:1702.2
+controllers.multiPlayer.sampleRandom.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/copsNrobbers.txt, 0.0, 0.9 | 0.8, 3.6 , timsteps:642.8
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.sampleOneStepLookAhead.Agent
+Results in game examples/2player/copsNrobbers.txt, 0.3, 0.0 | 3.2, 0.0 , timsteps:1863.4
+controllers.multiPlayer.sampleOneStepLookAhead.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/copsNrobbers.txt, 0.0, 0.7 | 1.9, 2.8 , timsteps:861.4
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.sampleGA.Agent
+Results in game examples/2player/copsNrobbers.txt, 0.6, 0.0 | 3.7, 0.0 , timsteps:1439.9
+controllers.multiPlayer.sampleGA.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/copsNrobbers.txt, 0.0, 0.5 | 2.2, 2.0 , timsteps:1120.5
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.doNothing.Agent
+Results in game examples/2player/copsNrobbers.txt, 0.1, 0.0 | 2.5, 0.0 , timsteps:1961.6
+controllers.multiPlayer.doNothing.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/copsNrobbers.txt, 0.0, 0.6 | 0.0, 2.4 , timsteps:972.4
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.sampleRandom.Agent
+Results in game examples/2player/copsNrobbers.txt, 0.4, 0.0 | 3.7, 0.0 , timsteps:1820.4
+controllers.multiPlayer.sampleRandom.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/copsNrobbers.txt, 0.0, 0.8 | 1.5, 3.2 , timsteps:683.1
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.sampleOneStepLookAhead.Agent
+Results in game examples/2player/copsNrobbers.txt, 0.4, 0.0 | 3.0, 0.0 , timsteps:1605.9
+controllers.multiPlayer.sampleOneStepLookAhead.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/copsNrobbers.txt, 0.0, 0.6 | 1.4, 2.4 , timsteps:900.1
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.sampleGA.Agent
+Results in game examples/2player/copsNrobbers.txt, 0.4, 0.0 | 3.3, 0.0 , timsteps:1608.8
+controllers.multiPlayer.sampleGA.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/copsNrobbers.txt, 0.0, 0.6 | 1.5, 2.4 , timsteps:950.9
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/gotcha.txt, 1.0, 0.0 | 1.0, 0.0 , timsteps:305.3
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/gotcha.txt, 1.0, 0.0 | 1.0, 0.0 , timsteps:170.1
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.doNothing.Agent
+Results in game examples/2player/gotcha.txt, 0.7, 0.3 | 0.7, 0.3 , timsteps:451.8
+controllers.multiPlayer.doNothing.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/gotcha.txt, 0.0, 1.0 | 0.0, 1.0 , timsteps:1000.0
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.sampleRandom.Agent
+Results in game examples/2player/gotcha.txt, 1.0, 0.0 | 1.0, 0.0 , timsteps:175.6
+controllers.multiPlayer.sampleRandom.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/gotcha.txt, 0.4, 0.6 | 0.4, 0.6 , timsteps:839.0
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.sampleOneStepLookAhead.Agent
+Results in game examples/2player/gotcha.txt, 1.0, 0.0 | 1.0, 0.0 , timsteps:60.9
+controllers.multiPlayer.sampleOneStepLookAhead.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/gotcha.txt, 0.5, 0.5 | 0.5, 0.5 , timsteps:616.0
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.sampleGA.Agent
+Results in game examples/2player/gotcha.txt, 1.0, 0.0 | 1.0, 0.0 , timsteps:136.6
+controllers.multiPlayer.sampleGA.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/gotcha.txt, 1.0, 0.0 | 1.0, 0.0 , timsteps:417.7
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.doNothing.Agent
+Results in game examples/2player/gotcha.txt, 0.8, 0.2 | 0.8, 0.2 , timsteps:377.7
+controllers.multiPlayer.doNothing.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/gotcha.txt, 0.0, 1.0 | 0.0, 1.0 , timsteps:1000.0
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.sampleRandom.Agent
+Results in game examples/2player/gotcha.txt, 1.0, 0.0 | 1.0, 0.0 , timsteps:153.4
+controllers.multiPlayer.sampleRandom.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/gotcha.txt, 0.0, 1.0 | 0.0, 1.0 , timsteps:1000.0
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.sampleOneStepLookAhead.Agent
+Results in game examples/2player/gotcha.txt, 1.0, 0.0 | 1.0, 0.0 , timsteps:88.7
+controllers.multiPlayer.sampleOneStepLookAhead.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/gotcha.txt, 0.3, 0.7 | 0.3, 0.7 , timsteps:911.6
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.sampleGA.Agent
+Results in game examples/2player/gotcha.txt, 1.0, 0.0 | 1.0, 0.0 , timsteps:75.1
+controllers.multiPlayer.sampleGA.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/gotcha.txt, 0.9, 0.1 | 0.9, 0.1 , timsteps:419.3
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/klax.txt, 0.6, 0.4 | 11.9, 13.7 , timsteps:1500.0
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/klax.txt, 0.7, 0.4 | 12.1, 9.5 , timsteps:1500.0
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.doNothing.Agent
+Results in game examples/2player/klax.txt, 0.9, 0.1 | 13.8, 2.6 , timsteps:1500.0
+controllers.multiPlayer.doNothing.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/klax.txt, 0.2, 0.8 | 2.1, 9.1 , timsteps:1500.0
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.sampleRandom.Agent
+Results in game examples/2player/klax.txt, 0.9, 0.0 | 11.1, 1.1 , timsteps:1500.0
+controllers.multiPlayer.sampleRandom.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/klax.txt, 0.0, 0.9 | 0.2, 10.1 , timsteps:1500.0
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.sampleOneStepLookAhead.Agent
+Results in game examples/2player/klax.txt, 0.9, 0.2 | 7.4, 2.4 , timsteps:1500.0
+controllers.multiPlayer.sampleOneStepLookAhead.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/klax.txt, 0.4, 0.5 | 5.4, 8.4 , timsteps:1500.0
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.sampleGA.Agent
+Results in game examples/2player/klax.txt, 0.8, 0.3 | 9.8, 6.0 , timsteps:1500.0
+controllers.multiPlayer.sampleGA.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/klax.txt, 0.5, 0.6 | 9.0, 9.3 , timsteps:1500.0
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.doNothing.Agent
+Results in game examples/2player/klax.txt, 0.9, 0.0 | 13.8, 1.2 , timsteps:1500.0
+controllers.multiPlayer.doNothing.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/klax.txt, 0.2, 0.7 | 1.4, 7.9 , timsteps:1500.0
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.sampleRandom.Agent
+Results in game examples/2player/klax.txt, 0.9, 0.0 | 11.1, 0.3 , timsteps:1500.0
+controllers.multiPlayer.sampleRandom.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/klax.txt, 0.0, 1.0 | 0.8, 8.5 , timsteps:1500.0
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.sampleOneStepLookAhead.Agent
+Results in game examples/2player/klax.txt, 0.6, 0.2 | 12.2, 3.9 , timsteps:1500.0
+controllers.multiPlayer.sampleOneStepLookAhead.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/klax.txt, 0.4, 0.6 | 6.2, 11.1 , timsteps:1500.0
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.sampleGA.Agent
+Results in game examples/2player/klax.txt, 0.8, 0.2 | 11.8, 7.8 , timsteps:1500.0
+controllers.multiPlayer.sampleGA.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/klax.txt, 0.3, 0.8 | 5.1, 10.9 , timsteps:1500.0
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/samaritan.txt, 0.9, 0.1 | 900.0, 1.8 , timsteps:435.1
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/samaritan.txt, 0.7, 0.3 | 700.0, 1.1 , timsteps:637.2
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.doNothing.Agent
+Results in game examples/2player/samaritan.txt, 1.0, 0.0 | 1000.0, 0.0 , timsteps:258.6
+controllers.multiPlayer.doNothing.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/samaritan.txt, 0.0, 1.0 | 0.0, 19.2 , timsteps:1500.0
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.sampleRandom.Agent
+Results in game examples/2player/samaritan.txt, 1.0, 0.0 | 1000.0, 0.6 , timsteps:290.5
+controllers.multiPlayer.sampleRandom.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/samaritan.txt, 0.8, 0.2 | 800.0, 1.4 , timsteps:730.3
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.sampleOneStepLookAhead.Agent
+Results in game examples/2player/samaritan.txt, 0.8, 0.2 | 800.0, 1.0 , timsteps:690.9
+controllers.multiPlayer.sampleOneStepLookAhead.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/samaritan.txt, 0.9, 0.1 | 900.0, 1.7 , timsteps:548.5
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.sampleGA.Agent
+Results in game examples/2player/samaritan.txt, 1.0, 0.0 | 1000.0, 0.6 , timsteps:367.3
+controllers.multiPlayer.sampleGA.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/samaritan.txt, 0.5, 0.5 | 500.0, 0.5 , timsteps:931.8
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.doNothing.Agent
+Results in game examples/2player/samaritan.txt, 1.0, 0.0 | 1000.0, 0.0 , timsteps:238.6
+controllers.multiPlayer.doNothing.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/samaritan.txt, 0.0, 1.0 | 0.0, 13.1 , timsteps:1500.0
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.sampleRandom.Agent
+Results in game examples/2player/samaritan.txt, 0.7, 0.3 | 700.0, 0.6 , timsteps:620.7
+controllers.multiPlayer.sampleRandom.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/samaritan.txt, 0.6, 0.4 | 600.0, 1.9 , timsteps:872.0
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.sampleOneStepLookAhead.Agent
+Results in game examples/2player/samaritan.txt, 0.9, 0.1 | 900.0, 0.7 , timsteps:384.8
+controllers.multiPlayer.sampleOneStepLookAhead.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/samaritan.txt, 0.7, 0.3 | 700.0, 1.8 , timsteps:719.3
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.sampleGA.Agent
+Results in game examples/2player/samaritan.txt, 0.8, 0.2 | 800.0, 1.5 , timsteps:566.5
+controllers.multiPlayer.sampleGA.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/samaritan.txt, 0.4, 0.6 | 400.0, 1.0 , timsteps:1011.4
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/sokoban.txt, 0.0, 0.0 | 0.0, 0.0 , timsteps:2000.0
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/sokoban.txt, 0.0, 0.0 | 0.0, 0.0 , timsteps:2000.0
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.doNothing.Agent
+Results in game examples/2player/sokoban.txt, 0.0, 0.0 | 0.0, 0.0 , timsteps:2000.0
+controllers.multiPlayer.doNothing.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/sokoban.txt, 0.0, 0.0 | 0.0, 0.0 , timsteps:2000.0
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.sampleRandom.Agent
+Results in game examples/2player/sokoban.txt, 0.0, 0.0 | 0.0, 0.0 , timsteps:2000.0
+controllers.multiPlayer.sampleRandom.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/sokoban.txt, 0.0, 0.0 | 0.1, 0.1 , timsteps:2000.0
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.sampleOneStepLookAhead.Agent
+Results in game examples/2player/sokoban.txt, 0.0, 0.0 | 0.1, 0.1 , timsteps:2000.0
+controllers.multiPlayer.sampleOneStepLookAhead.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/sokoban.txt, 0.0, 0.0 | 0.0, 0.0 , timsteps:2000.0
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.sampleGA.Agent
+Results in game examples/2player/sokoban.txt, 0.0, 0.0 | 0.0, 0.0 , timsteps:2000.0
+controllers.multiPlayer.sampleGA.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/sokoban.txt, 0.0, 0.0 | 0.0, 0.0 , timsteps:2000.0
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.doNothing.Agent
+Results in game examples/2player/sokoban.txt, 0.0, 0.0 | 0.1, 0.1 , timsteps:2000.0
+controllers.multiPlayer.doNothing.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/sokoban.txt, 0.0, 0.0 | 0.0, 0.0 , timsteps:2000.0
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.sampleRandom.Agent
+Results in game examples/2player/sokoban.txt, 0.0, 0.0 | 0.1, 0.1 , timsteps:2000.0
+controllers.multiPlayer.sampleRandom.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/sokoban.txt, 0.0, 0.0 | 0.1, 0.1 , timsteps:2000.0
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.sampleOneStepLookAhead.Agent
+Results in game examples/2player/sokoban.txt, 0.0, 0.0 | 0.0, 0.0 , timsteps:2000.0
+controllers.multiPlayer.sampleOneStepLookAhead.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/sokoban.txt, 0.0, 0.0 | 0.0, 0.0 , timsteps:2000.0
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.sampleGA.Agent
+Results in game examples/2player/sokoban.txt, 0.0, 0.0 | 0.0, 0.0 , timsteps:2000.0
+controllers.multiPlayer.sampleGA.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/sokoban.txt, 0.0, 0.0 | 0.1, 0.1 , timsteps:2000.0
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/steeplechase.txt, 0.0, 0.2 | 10.0, 240.0 , timsteps:1931.5
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/steeplechase.txt, 0.4, 0.0 | 420.0, 0.0 , timsteps:1854.3
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.doNothing.Agent
+Results in game examples/2player/steeplechase.txt, 0.1, 0.0 | 120.0, 0.0 , timsteps:1968.6
+controllers.multiPlayer.doNothing.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/steeplechase.txt, 0.0, 0.0 | 0.0, 10.0 , timsteps:2000.0
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.sampleRandom.Agent
+Results in game examples/2player/steeplechase.txt, 0.3, 0.0 | 340.0, 0.0 , timsteps:1831.0
+controllers.multiPlayer.sampleRandom.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/steeplechase.txt, 0.0, 0.0 | 0.0, 20.0 , timsteps:2000.0
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.sampleOneStepLookAhead.Agent
+Results in game examples/2player/steeplechase.txt, 0.0, 1.0 | 0.0, 1000.0 , timsteps:148.5
+controllers.multiPlayer.sampleOneStepLookAhead.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/steeplechase.txt, 1.0, 0.0 | 1020.0, 0.0 , timsteps:149.2
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.sampleGA.Agent
+Results in game examples/2player/steeplechase.txt, 0.2, 0.0 | 210.0, 0.0 , timsteps:1884.4
+controllers.multiPlayer.sampleGA.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/steeplechase.txt, 0.2, 0.0 | 230.0, 0.0 , timsteps:1899.5
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.doNothing.Agent
+Results in game examples/2player/steeplechase.txt, 0.2, 0.0 | 220.0, 0.0 , timsteps:1837.6
+controllers.multiPlayer.doNothing.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/steeplechase.txt, 0.0, 0.2 | 0.0, 210.0 , timsteps:1905.5
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.sampleRandom.Agent
+Results in game examples/2player/steeplechase.txt, 0.1, 0.0 | 120.0, 0.0 , timsteps:1903.9
+controllers.multiPlayer.sampleRandom.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/steeplechase.txt, 0.1, 0.0 | 110.0, 10.0 , timsteps:1920.5
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.sampleOneStepLookAhead.Agent
+Results in game examples/2player/steeplechase.txt, 0.0, 1.0 | 0.0, 1010.0 , timsteps:190.8
+controllers.multiPlayer.sampleOneStepLookAhead.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/steeplechase.txt, 1.0, 0.0 | 1000.0, 0.0 , timsteps:108.6
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.sampleGA.Agent
+Results in game examples/2player/steeplechase.txt, 0.0, 0.1 | 20.0, 110.0 , timsteps:1982.0
+controllers.multiPlayer.sampleGA.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/steeplechase.txt, 0.1, 0.0 | 110.0, 20.0 , timsteps:1955.4
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/tron.txt, 0.0, 1.0 | 0.0, 1.0 , timsteps:34.3
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/tron.txt, 1.0, 0.0 | 1.0, 0.0 , timsteps:18.5
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.doNothing.Agent
+Results in game examples/2player/tron.txt, 0.7, 0.3 | 0.8, 0.3 , timsteps:32.8
+controllers.multiPlayer.doNothing.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/tron.txt, 0.7, 0.3 | 0.7, 0.3 , timsteps:19.8
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.sampleRandom.Agent
+Results in game examples/2player/tron.txt, 0.7, 0.3 | 0.7, 0.3 , timsteps:16.0
+controllers.multiPlayer.sampleRandom.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/tron.txt, 0.3, 0.7 | 0.3, 0.7 , timsteps:10.5
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.sampleOneStepLookAhead.Agent
+Results in game examples/2player/tron.txt, 0.6, 0.4 | 0.8, 0.4 , timsteps:19.3
+controllers.multiPlayer.sampleOneStepLookAhead.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/tron.txt, 0.9, 0.1 | 0.9, 0.1 , timsteps:21.7
+controllers.multiPlayer.sampleMCTS.Agent controllers.multiPlayer.sampleGA.Agent
+Results in game examples/2player/tron.txt, 1.0, 0.0 | 1.0, 0.0 , timsteps:21.1
+controllers.multiPlayer.sampleGA.Agent controllers.multiPlayer.sampleMCTS.Agent
+Results in game examples/2player/tron.txt, 0.9, 0.1 | 0.9, 0.1 , timsteps:21.5
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.doNothing.Agent
+Results in game examples/2player/tron.txt, 1.0, 0.0 | 1.0, 0.0 , timsteps:34.6
+controllers.multiPlayer.doNothing.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/tron.txt, 0.0, 1.0 | 0.0, 1.0 , timsteps:34.6
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.sampleRandom.Agent
+Results in game examples/2player/tron.txt, 1.0, 0.0 | 1.0, 0.0 , timsteps:18.5
+controllers.multiPlayer.sampleRandom.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/tron.txt, 0.0, 1.0 | 0.0, 1.0 , timsteps:19.1
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.sampleOneStepLookAhead.Agent
+Results in game examples/2player/tron.txt, 1.0, 0.0 | 1.0, 0.0 , timsteps:24.0
+controllers.multiPlayer.sampleOneStepLookAhead.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/tron.txt, 0.1, 0.9 | 0.1, 0.9 , timsteps:56.9
+controllers.multiPlayer.sampleOLMCTS.Agent controllers.multiPlayer.sampleGA.Agent
+Results in game examples/2player/tron.txt, 1.0, 0.0 | 1.0, 0.0 , timsteps:19.6
+controllers.multiPlayer.sampleGA.Agent controllers.multiPlayer.sampleOLMCTS.Agent
+Results in game examples/2player/tron.txt, 0.1, 0.9 | 0.2, 0.9 , timsteps:46.0
